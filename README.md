@@ -1,1 +1,3 @@
-# Hello-World
+# My first personal website
+
+Made thanks to **Girlcode**
